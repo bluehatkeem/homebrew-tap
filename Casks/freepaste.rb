@@ -1,6 +1,6 @@
 cask "freepaste" do
-  version "1.0"
-  sha256 "54f43bfef675440b1ba662dde5fb03778786f9ce832c22f1e011a0a88742ea8c"
+  version "1.1"
+  sha256 "53a4574f4547789059e60ad11958b8df6ad418245a8f261f2ee5a23d531cf14b"
 
   url "https://github.com/bluehatkeem/freepaste/releases/download/v#{version}/Freepaste-#{version}.zip"
   name "Freepaste"
